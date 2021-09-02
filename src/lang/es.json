@@ -1,0 +1,5 @@
+{
+  "app.header": "Edita <code>{fileName}</code> y guarda para refrescar",
+  "app.content": "Aprende React",
+  "app.channel.plug": "Internacionalizacion para {userName}"
+}
